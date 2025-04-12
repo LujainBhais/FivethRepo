@@ -20,7 +20,7 @@ public class Main {
         int result =sumFirstAndLast(num);
 
         if (result ==-1){
-            System.out.print("Negative number detected! ");
+            System.out.print("Negative number detected! \n Done ");
         }
         else
             System.out.print("Sum of first and last numbers are "+result);
